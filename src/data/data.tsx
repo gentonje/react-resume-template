@@ -45,7 +45,7 @@ import {
  */
 export const homePageMeta: HomepageMeta = {
   title: 'React Resume Template',
-  description: "Example site built with Tim Baker's react resume template",
+  description: "Horizon resume webapp",
 };
 
 /**
@@ -80,7 +80,7 @@ export const heroData: Hero = {
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time time, you can catch me training in <strong className="text-stone-100">Muay Thai</strong>,
         plucking my <strong className="text-stone-100">banjo</strong>, or exploring beautiful{' '}
-        <strong className="text-stone-100">Vancouver Island</strong>.
+        <strong className="text-stone-100">River Nile Shores</strong>.
       </p>
     </>
   ),
